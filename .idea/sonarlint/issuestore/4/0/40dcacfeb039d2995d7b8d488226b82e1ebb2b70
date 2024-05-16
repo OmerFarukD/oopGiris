@@ -1,0 +1,11 @@
+
+]
+java:S1220""Move this file to a named package.8èÊ€”ø1J$86498c20-27c7-4f93-8a11-35fcbc69dcca
+r	java:S106"+Replace this use of System.out by a logger.(êÕéÆøÿÿÿÿ8ïÊ€”ø1J$a77b2420-c6c1-44be-8607-3cdc89a520b2
+r	java:S106
+"+Replace this use of System.out by a logger.(Î…—ãÿÿÿÿÿ8ïÊ€”ø1J$674a8a12-d9be-4dc8-8975-5acd970b98d2
+o
+java:S1125"'Remove the unnecessary boolean literal.( —ÏÜûÿÿÿÿ8Èï€”ø1J$aa5164e3-eaab-43ee-9a52-0264e6e665ed
+r	java:S106"+Replace this use of System.out by a logger.(Ô¨°€ùÿÿÿÿ8ñÊ€”ø1J$4b93377b-d320-4ce0-812c-291325351da6
+m	java:S106"+Replace this use of System.out by a logger.(íÒ¸ÿ8˜ƒƒ”ø1J$5f424796-f1af-4af3-9383-873ee565d47c
+m	java:S106"+Replace this use of System.out by a logger.(“Ñìã8µÎ…”ø1J$ddc1c42d-c446-4fc3-93e9-9a846b316cb8
